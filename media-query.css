@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 600px) {
+    img.imagem {
+        width: 12vw;
+    
+    }
+    ul {
+        padding-top: 210px;
+    }
+}
