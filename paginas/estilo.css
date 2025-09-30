@@ -11,6 +11,12 @@
     height: 0px;
 }
 
+html {
+   scrollbar-width: none; 
+   -ms-overflow-style: none;
+}
+ 
+
 img {
     width: 100vw;
 }
