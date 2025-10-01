@@ -5,7 +5,18 @@
         width: 12vw;
     
     }
+
+
     ul {
         padding-top: 210px;
+    }
+
+    body {
+        width: 97vw;
+        background-image: url(imagens/fundo-madeira.jpg) no-repeat;
+        background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
+
     }
 }
